@@ -1,2 +1,2 @@
-# repo-curso-dev-private
+# repo-curso-dev-public
 Repositorio do curso.dev criado para gerenciamento de conteúdo direto na minha maquiana.
