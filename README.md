@@ -1,1 +1,1 @@
-Repositorio do curso.dev criado para gerenciamento de conteúdo direto na minha maquiana.
+Repositorio do curso.dev criado para gerenciamento de conteúdo direto na minha maquina.
